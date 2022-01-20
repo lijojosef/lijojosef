@@ -1,4 +1,4 @@
-[![Banner]](https://github.com/lijojosef/lijojosef/blob/main/Explore%20Minimal%20Travel%20Twitter%20Header.png)
+![Banner](https://github.com/lijojosef/lijojosef/blob/main/Explore%20Minimal%20Travel%20Twitter%20Header.png)
 
 
 <h1 align="center">Hello there👋,I'm Lijo Joseph</h1>
