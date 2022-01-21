@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
+- 💻 Know more about me. My portfolio : [https://lijojosef-blog.web.app/](https://lijojosef-blog.web.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/lijojosef](https://github.com/lijojosef)
 
 - 📝 I regularly write articles on [https://medium.com/@lijojoseph234/](https://medium.com/@lijojoseph234/)
