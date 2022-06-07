@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hello there👋,I'm Lijo Joseph</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">A simple software engineer</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **DSA and System Design**
 
 - 💻 Know more about me. My portfolio : [https://lijojosef-blog.web.app/](https://lijojosef-blog.web.app/)
 
