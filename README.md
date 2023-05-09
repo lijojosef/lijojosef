@@ -1,4 +1,4 @@
-![Banner](https://github.com/lijojosef/lijojosef/blob/main/Explore%20Minimal%20Travel%20Twitter%20Header.png)
+![Banner](/LinkedIn%20Banner%20lijo%202.png)
 
 
 <h1 align="center">Hello there👋,I'm Lijo Joseph</h1>
